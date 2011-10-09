@@ -25,6 +25,11 @@ type Global() =
         "{controller}/{action}/{id}", // URL with parameters
         { controller = "Home"; action = "Index"; id = UrlParameter.Optional } // Parameter defaults
       )
+    routes.MapRoute(
+        "Account",
+        "Account/LogOn",
+        { controller = "Account"; action = "LogOn"; id = UrlParameter.Optional }
+      )
 
   member x.Start() =
     AreaRegistration.RegisterAllAreas()

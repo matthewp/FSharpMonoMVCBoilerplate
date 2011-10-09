@@ -4,7 +4,6 @@
   protected void Application_Start(Object sender, EventArgs e) {
     // Delegate event handling to the F# Application class
     base.Start();
-    var rts = RouteTable.Routes;
   }
 
 </script>

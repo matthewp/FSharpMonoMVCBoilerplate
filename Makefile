@@ -5,3 +5,4 @@ all:
 clean:
 	rm -f WebApplication.Core/bin/WebApplication.Core.dll
 	rm -f WebApplication/bin/WebApplication.dll
+	rm -f WebApplication/bin/WebApplication.Core.dll
