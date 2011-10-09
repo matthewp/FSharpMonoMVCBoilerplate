@@ -6,7 +6,8 @@ type ProductInfo = {
   ID : int
   Name : string
   Category : string
-  Price : System.Decimal }
+  Price : System.Decimal
+  }
 
 module Model = 
   let ListProducts =
