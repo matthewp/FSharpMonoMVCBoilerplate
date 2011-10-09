@@ -1,0 +1,7 @@
+C:\Users\Matthew\Documents\Visual Studio 2008\Projects\FSharpMonoMVCBoilerplate\WebApplication\bin\WebApplication.dll
+C:\Users\Matthew\Documents\Visual Studio 2008\Projects\FSharpMonoMVCBoilerplate\WebApplication\bin\WebApplication.pdb
+C:\Users\Matthew\Documents\Visual Studio 2008\Projects\FSharpMonoMVCBoilerplate\WebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2008\Projects\FSharpMonoMVCBoilerplate\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\Matthew\Documents\Visual Studio 2008\Projects\FSharpMonoMVCBoilerplate\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\Matthew\Documents\Visual Studio 2008\Projects\FSharpMonoMVCBoilerplate\WebApplication\bin\WebApplication.Core.dll
+C:\Users\Matthew\Documents\Visual Studio 2008\Projects\FSharpMonoMVCBoilerplate\WebApplication\bin\WebApplication.Core.pdb
