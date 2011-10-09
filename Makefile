@@ -3,5 +3,5 @@ all:
 	$(MAKE) -C WebApplication
 
 clean:
-	rm WebApplication.Core/bin/WebApplication.Core.dll
-	rm WebApplication/bin/WebApplication.dll
+	rm -f WebApplication.Core/bin/WebApplication.Core.dll
+	rm -f WebApplication/bin/WebApplication.dll
